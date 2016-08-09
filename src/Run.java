@@ -4,6 +4,7 @@ public class Run
    {
 	   Employee e = new Employee();
 	   e.mailCheck();
+	   int masih = 1;
 
    }
 }
